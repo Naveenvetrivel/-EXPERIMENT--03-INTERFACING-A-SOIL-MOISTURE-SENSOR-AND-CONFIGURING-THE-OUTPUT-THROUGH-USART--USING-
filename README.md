@@ -263,7 +263,8 @@ static void MX_GPIO_Init(void)
 ![image](https://github.com/Naveenvetrivel/-EXPERIMENT--03-INTERFACING-A-SOIL-MOISTURE-SENSOR-AND-CONFIGURING-THE-OUTPUT-THROUGH-USART--USING-/assets/94165322/9184d6f0-f242-4dcf-938a-f35ac98af2f5)
 ## The sensor is not dipped in water
 ![image](https://github.com/Naveenvetrivel/-EXPERIMENT--03-INTERFACING-A-SOIL-MOISTURE-SENSOR-AND-CONFIGURING-THE-OUTPUT-THROUGH-USART--USING-/assets/94165322/ace40836-48a1-4491-b846-896509525846)
-![Uploading image.png…]()
+![image](https://github.com/Naveenvetrivel/-EXPERIMENT--03-INTERFACING-A-SOIL-MOISTURE-SENSOR-AND-CONFIGURING-THE-OUTPUT-THROUGH-USART--USING-/assets/94165322/c02bec36-5196-4575-a194-4a3f511737bb)
+
 
 
  
